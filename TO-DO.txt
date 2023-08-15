@@ -1,0 +1,10 @@
+-Look for a nice picture of books
+in a shelf. on Onsplash.com
+-Download jQuery and use it
+-Attempt to use netlify again
+-Navbar found on bootstrap docs
+-find out what chara ui is all about
+ -google fonts lato
+-for icons =font awesome bootstrap cdn 
+
+
